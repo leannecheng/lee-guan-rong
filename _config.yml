@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Lee Guan Rong"
+title:		   "李冠融 (Lee Guan Rong)"
 description: "Lee Guan Rong's Calligraphy Portfolio"
 author:      "Leanne Cheng"
