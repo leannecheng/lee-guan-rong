@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '楷书1'
+title: '《锦瑟》'
 ---
 
 **作品简介:**

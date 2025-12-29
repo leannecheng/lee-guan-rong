@@ -8,10 +8,11 @@ permalink: /contact
 
 If you have any questions about calligraphy, or would like to learn calligraphy (currently taught only at Calle Chain Art Centre), please feel free to contact me through the following methods.
 
-[翰墨林书画阁 Calle Chain Art Centre](https://share.google/ZdOirIVQ170xExekg)
 
 [WhatsApp](https://wa.link/kde95p)
 
 [Email](mailto:guan071706@gmail.com)
+
+[翰墨林书画阁 Calle Chain Art Centre](https://share.google/ZdOirIVQ170xExekg)
 
 

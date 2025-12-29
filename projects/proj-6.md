@@ -1,8 +1,7 @@
 ---
 layout: post
-title: '楷书春联1'
+title: '春节篇'
 ---
-
 **作品简介**：
 <br>
 
@@ -20,7 +19,6 @@ title: '楷书春联1'
 
 
 <br>
-
 **Description:**
 
 This couplet was written as a gift for a relative's business during the Dragon Year Lunar New Year. The text, "Dragon and Lion soar, business prospers; Spring is bright, wealth flows," is written in clear Standard Script (Kai). It serves as a straightforward, traditional holiday blessing for commercial success.
@@ -38,7 +36,6 @@ Purpose: Gift for Relatives (Business Blessing)
 
 {% include image.html image="projects/proj-6/thumbnail.jpg" %}
 ---
-#### 行书春联1
 
 **作品简介：**
 <br>
@@ -72,7 +69,6 @@ Script Style: Running Script
 Purpose: Gift for Relatives (Home Blessing)
 {% include image.html image="projects/proj-6/行书春联1.jpg" %}
 ---
-#### 合体字1
 
 **作品简介**：
 <br>
@@ -92,8 +88,8 @@ Purpose: Gift for Relatives (Home Blessing)
 
 格式：A4红纸
 
-<br>
 
+<br>
 **Description:**
 
 This piece reflects a playful and creative experiment undertaken during a school Lunar New Year design activity. On a sheet of red paper, I deconstructed and recombined traditional auspicious phrases into Combined Characters (Ligatures). The design features "Pass Every Exam" (逢考必过) and "Gold and Jade Fill the Hall" (金玉满堂), blending wishes for academic success with hopes for prosperity. To achieve visual balance, I added the character "Fu" (Blessing) in the bottom left corner, which not only stabilizes the composition but also adds a finishing touch of good fortune.

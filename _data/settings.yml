@@ -10,11 +10,11 @@ menu:
 
 projects:
 - {name: '百福图',   url: 'proj-1'}
-- {name: '楷书2',   url: 'proj-2'}
-- {name: '草书1', url: 'proj-3'}
-- {name: '行书1',  url: 'proj-4'}
-- {name: '楷书1',  url: 'proj-5'}
-- {name: '楷书春联1',  url: 'proj-6'}
+- {name: '《行路难·其一》',   url: 'proj-2'}
+- {name: '《夜雪》', url: 'proj-3'}
+- {name: '《秋夜寄丘二十二员外》',  url: 'proj-4'}
+- {name: '《锦瑟》',  url: 'proj-5'}
+- {name: '春节篇',  url: 'proj-6'}
 
 #-------------------------------
 # Contact Section
