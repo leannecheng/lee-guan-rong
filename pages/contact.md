@@ -11,6 +11,8 @@ If you have any questions about calligraphy, or would like to learn calligraphy 
 
 [WhatsApp](https://wa.link/kde95p)
 
+[Instagram](https://www.instagram.com/lee.guanrong)
+
 [Email](mailto:guan071706@gmail.com)
 
 [翰墨林书画阁 Calle Chain Art Centre](https://share.google/ZdOirIVQ170xExekg)

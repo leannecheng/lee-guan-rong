@@ -21,6 +21,7 @@ projects:
 
 social:
 - {icon: 'whatsapp',  link: 'https://wa.link/kde95p'}
+- {icon: 'instagram', link: 'https://www.instagram.com/lee.guanrong'}
 - {icon: 'envelope',  link: 'mailto:guan071706@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

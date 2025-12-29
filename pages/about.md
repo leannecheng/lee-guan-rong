@@ -18,5 +18,5 @@ Calligraphy is my passion. I love exploring the mysteries of various scripts and
 
 For me, calligraphy is more than just a hobby; it is the key element that makes my life vibrant and meaningful.
 
-{% include image.html image="../img/logo.jpg" %}
+{% include image.html image="../img/projects/logo.jpg" %}
 
