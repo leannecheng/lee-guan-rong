@@ -2,7 +2,6 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -10,11 +9,12 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: '百福图',   url: 'proj-1'}
+- {name: '楷书2',   url: 'proj-2'}
+- {name: '草书1', url: 'proj-3'}
+- {name: '行书1',  url: 'proj-4'}
+- {name: '楷书1',  url: 'proj-5'}
+- {name: '楷书春联1',  url: 'proj-6'}
 
 #-------------------------------
 # Contact Section
